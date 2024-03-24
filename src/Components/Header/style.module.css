@@ -1,0 +1,52 @@
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+  height: 80px;
+  background-color: #090d28;
+}
+
+.text {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.textHover:hover {
+  color: #ea377b;
+  transition: all;
+  transition-duration: 0.3s;
+}
+
+.textActive {
+  color: #ea377b;
+}
+
+.gymLogo {
+  width: 120px;
+  height: 80px;
+}
+.navContainer {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.navContainer li {
+  list-style:  none;
+}
+
+.inputStyle {
+  width: 305px;
+  height: 40px;
+  background-color: #1b1f3e;
+  padding: 0 20px;
+  outline: none;
+  border: none;
+  border-radius: 6px;
+  color: #6c6d70;
+  text-align: left;
+}

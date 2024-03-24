@@ -1,0 +1,27 @@
+.blueCardContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #1b1f3e;
+    height: 100%;
+    gap: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.blueCardContainer:hover{
+    opacity: .8;
+    transition-duration: .3s;
+    transition: all;
+}
+
+.blueCardImg {
+}
+
+.blueCardTitle {
+    color: #F5F5F5;
+    font-size: 24px;
+    font-weight: 400;
+
+}

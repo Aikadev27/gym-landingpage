@@ -1,0 +1,32 @@
+.container {
+    width: 247px;
+    border: solid 1px;
+    border-color: #EA377B;
+    height: 200px;
+    border-radius: 4px;
+    padding: 12px 6px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.icon{
+    width: 60px;
+    height: 60px;
+   
+}
+
+.nameText{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #090D28;
+}
+
+.desc{
+    display: block;
+    text-align: center;
+    font-size: 16px;
+}

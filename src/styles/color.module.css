@@ -1,0 +1,37 @@
+.primaryColor {
+  background-color: #090d28;
+}
+
+.textPrimaryColor {
+  color: #ea377b;
+}
+
+.btnColor {
+  background-color: #ea377b;
+}
+
+.iconColor {
+  color: #ea377b;
+}
+
+.textWhiteColor {
+  color: #ffffff;
+}
+
+.textBlackColor {
+  color: #000000;
+}
+
+.textThinColor {
+  color: #4b4e68;
+}
+
+.shipBoderStyle {
+  border: 1px solid #ea377b;
+}
+
+.productBorderStyle {
+  border-color: #d9d9d9;
+  border-width: 1px;
+  border-radius: 5px;
+}

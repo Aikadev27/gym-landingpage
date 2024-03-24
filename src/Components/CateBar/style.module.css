@@ -1,0 +1,27 @@
+.headText {
+  font-size: 36px;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.seeText {
+  color: #f5f5f5;
+  font-size: 32px;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.seeText:hover{
+  font-weight: bolder;
+  color: red;
+  transition: initial;
+  transition-duration: .3s;
+}
+
+
+.categoryText {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0;
+}

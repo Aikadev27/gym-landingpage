@@ -1,0 +1,29 @@
+.paddingBody {
+  padding: 0 40px 0 40px;
+}
+
+.marginY {
+  margin: 40px 0;
+}
+
+.height {
+  min-height: 100vh;
+}
+
+.bannerContainer {
+  position: relative;
+  z-index: 2;
+}
+
+.shipPos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.headText {
+  font-size: 36px;
+  color: #ffffff;
+  font-weight: 600;
+}

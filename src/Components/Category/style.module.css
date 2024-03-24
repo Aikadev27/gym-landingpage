@@ -1,0 +1,15 @@
+.container{
+    width: 100%;
+    height: 210px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.item{
+    list-style: none;
+    flex-basis: calc(25% - 40px);
+    display: block;
+    height: 100%;
+}

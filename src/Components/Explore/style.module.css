@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.container li {
+    list-style: none;
+    flex: 0 0  calc(33.3333333333% - 60px);
+    border-radius: 5px;
+    margin-bottom: 120px;
+    height: 235px;
+}
